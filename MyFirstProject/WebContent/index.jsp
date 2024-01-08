@@ -9,8 +9,14 @@
 <body>
 <h1>Hello welcome to JSP</h1>
 <a href="MyServlet" >Click here</a>
-<label>Name:</label>
-<input type="text">
 
+<h1>Login Form</h1>
+<form action="MyServlet" method="post">
+<label>Email:</label>
+<input type="email" name="email"><br><br>
+<label>Password:</label>
+<input type="password" name="password"><br><br>
+<input type="submit" value="submit">
+</form>
 </body>
 </html>
