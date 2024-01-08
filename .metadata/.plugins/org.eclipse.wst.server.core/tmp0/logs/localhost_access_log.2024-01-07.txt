@@ -1,0 +1,17 @@
+127.0.0.1 - - [07/Jan/2024:19:15:25 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Jan/2024:19:15:26 +0530] "GET /MyFirstProject/index.jsp HTTP/1.1" 200 194
+0:0:0:0:0:0:0:1 - - [07/Jan/2024:19:15:28 +0530] "GET /MyFirstProject/MyServlet HTTP/1.1" 200 45
+0:0:0:0:0:0:0:1 - - [07/Jan/2024:19:15:40 +0530] "GET /MyFirstProject/index.jsp HTTP/1.1" 200 194
+0:0:0:0:0:0:0:1 - - [07/Jan/2024:19:15:43 +0530] "GET /MyFirstProject/MyServlet HTTP/1.1" 200 45
+0:0:0:0:0:0:0:1 - - [07/Jan/2024:19:17:00 +0530] "GET /MyFirstProject/index.jsp HTTP/1.1" 200 194
+0:0:0:0:0:0:0:1 - - [07/Jan/2024:19:17:02 +0530] "GET /MyFirstProject/MyServlet HTTP/1.1" 200 45
+0:0:0:0:0:0:0:1 - - [07/Jan/2024:19:18:11 +0530] "GET /MyFirstProject/index.jsp HTTP/1.1" 200 239
+0:0:0:0:0:0:0:1 - - [07/Jan/2024:19:18:50 +0530] "GET /MyFirstProject/index.jsp HTTP/1.1" 200 239
+0:0:0:0:0:0:0:1 - - [07/Jan/2024:19:18:50 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Jan/2024:19:19:03 +0530] "GET /MyFirstProject/MyServlet HTTP/1.1" 200 45
+192.168.77.182 - - [07/Jan/2024:19:22:30 +0530] "GET / HTTP/1.1" 404 751
+192.168.77.182 - - [07/Jan/2024:19:22:30 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+192.168.77.182 - - [07/Jan/2024:19:22:58 +0530] "GET /MyFirstProject/index HTTP/1.1" 404 775
+192.168.77.182 - - [07/Jan/2024:19:23:04 +0530] "GET /MyFirstProject/ HTTP/1.1" 200 239
+192.168.77.182 - - [07/Jan/2024:19:23:21 +0530] "GET /MyFirstProject/MyServlet HTTP/1.1" 200 45
+192.168.77.182 - - [07/Jan/2024:19:50:32 +0530] "GET /favicon.ico HTTP/1.1" 404 762
