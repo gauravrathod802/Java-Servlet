@@ -21,25 +21,3 @@ body{
     background-color: white;
      /* Center the content */
 }
-
-.container input{
-	padding:0.3rem;
-	margin-bottom:10px;
-	width:100%;
-}
-
-.loginBtn{
-	background-color:lightgreen;
-	font-size:1.2rem;
-	font-weight:400;
-	border-radius: 0.3rem;
-	border:none;
-	color:white;
-	width:11rem;
-	padding:0.3rem;
-}
-
-.loginBtn:hover{
-	transform:scale(1.03);
-	cursor:pointer;
-}
