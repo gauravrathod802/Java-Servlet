@@ -1,9 +1,3 @@
-INDEX VERSION 1.131
-D:\Programming\Java-servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1505846974.index
-\LoginRegister\src
-D:\Programming\Java-servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\694021076.index
-\Login\src
-D:\Programming\Java-servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2441853604.index
-\MyFirstProject\src
+INDEX VERSION 1.134
 D:\Programming\Java-servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3367335204.index
 \Login-Register\src

@@ -13,7 +13,7 @@ body{
 
 .container{
 	width: 100%;
-    max-width: 200px;
+    max-width: 250px;
     padding: 3rem;
     margin:2rem;
     border-radius: 10px;
@@ -22,10 +22,10 @@ body{
      /* Center the content */
 }
 
-.container input{
+input{
 	padding:0.3rem;
 	margin-bottom:10px;
-	width:100%;
+	width:90%;
 }
 
 .loginBtn{
@@ -35,7 +35,7 @@ body{
 	border-radius: 0.3rem;
 	border:none;
 	color:white;
-	width:11rem;
+	width:95%;
 	padding:0.3rem;
 }
 
